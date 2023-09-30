@@ -1,0 +1,21 @@
+#logo {width:150px;
+    height:150px} 
+#title {text-align:center;
+        color:blue;
+        font-size:180%}
+section {display:table;
+    justify-content:center;
+    text-align:center;
+    margin: auto;
+    width:50%;
+    border: 1px solid rgb(0, 0, 255);
+    background-color: rgb(163, 228, 254)}
+table {margin: auto;
+    width: 80%;}
+table, th, td {text-align: left;
+    border: 1px solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: rgb(163, 228, 254)}
